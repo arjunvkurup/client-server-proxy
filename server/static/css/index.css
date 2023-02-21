@@ -1,0 +1,16 @@
+body {
+    background-color: orange;
+    color: steelblue;
+}
+
+ul li {
+    cursor: pointer;
+}
+
+.done {
+    text-decoration: line-through;
+}
+
+.textBox {
+    width: 30%;
+}
