@@ -1,4 +1,8 @@
-# Distributed Systems Lab 1
+# Client-Server-Proxy using Go
+
+This repository contains a web server built in Go that can accept HTTP requests and return response data from locally stored files to clients. The server is designed to handle concurrent requests by creating a Go routine for each new client request.
+
+The server is easy to set up and use, with clear documentation and a simple API for serving files. It is built with efficiency and performance in mind, making it an ideal choice for high-traffic web applications.
 
 ### go.mod
 
